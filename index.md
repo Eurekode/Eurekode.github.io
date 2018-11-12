@@ -1,6 +1,7 @@
 ## Welcome to Eurekode Pages
 
-### Welcome !!!
+Eureka (Greek: Εύρηκα) is an interjection used to celebrate a discovery or invention.<br>
+Eurekode celebrates good code ;-)
 
 # Eurekode projects :
 - **ScriptStash.Net**<br>
