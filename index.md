@@ -1,8 +1,6 @@
 ## Welcome to Eurekode Pages
 
-### Markdown
-
-Welcome !
+### Welcome !!!
 
 # Eurekode projects :
 - **ScriptStash.Net**<br>
